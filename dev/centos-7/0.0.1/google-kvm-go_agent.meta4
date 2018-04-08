@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.1-google-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">99cc36884d0b7d9dd5bbd5cd04443f57</hash>
+    <hash type="sha-1">5ee00d5cdfab1526ecf2a618cb629f1687aa1b90</hash>
+    <hash type="sha-256">48711aa0b9c27fd307072c41452557118388168ffb7c0c12d98a3012e9f88d6c</hash>
+    <hash type="sha-512">5be601a092aa22f8121e670af95d7f7bd5a303dceb5b22d76a925adf6e1b4424ffcd9ab1455291ad1d29600074009cf4d75dc108bb92b62c19d59b0a7ab1ca36</hash>
+    <size>634599851</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/google/bosh-stemcell-0.0.1-google-kvm-centos-7-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
