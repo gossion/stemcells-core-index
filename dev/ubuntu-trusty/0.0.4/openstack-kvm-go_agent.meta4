@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.4-openstack-kvm-ubuntu-trusty-go_agent-raw.tgz">
+    <hash type="md5">ce6fb64d23f0322dca1f395937eecd5d</hash>
+    <hash type="sha-1">ed3319810b06b38c9907caee8195071de9ea336b</hash>
+    <hash type="sha-256">a9f6f0af32919bc4913c1f584348ef7ff0320c60c6b90123f4a37c714574ec63</hash>
+    <hash type="sha-512">df176182ea814d0476002746519d1100fbc8d2fcb5282cf52d0737c0bdc9192fbb11f52eec713f21494b48d3db81c9405fac4665dab637dfb94223b75ece222a</hash>
+    <size>391449006</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-0.0.4-openstack-kvm-ubuntu-trusty-go_agent-raw.tgz</url>
+  </file>
+  <file name="bosh-stemcell-0.0.4-openstack-kvm-ubuntu-trusty-go_agent.tgz">
+    <hash type="md5">2a6077598fa6870acfe6f39b86cd919c</hash>
+    <hash type="sha-1">67abbd4c6ec351972be2b1f7f4c99be9ea7f257e</hash>
+    <hash type="sha-256">83e5f7205b38b1496d24c2d6b1ff3df1c3468e734e54301e45672a69a0e3f4bf</hash>
+    <hash type="sha-512">60864645b2d24ce0bf621ee42ae99b609371318042b2048a9021b6d2bfd93505ee9cb034048018279e6c7c3f898660c68bd60ca58bde7d5ec020fbd4856ac887</hash>
+    <size>421372164</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-0.0.4-openstack-kvm-ubuntu-trusty-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
