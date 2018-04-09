@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.3-warden-boshlite-ubuntu-trusty-go_agent.tgz">
+    <hash type="md5">482078bf2bb68e0f91a01366e5035cf1</hash>
+    <hash type="sha-1">d7aac234d21a65b9eb0efea3df69593a2f5a31d0</hash>
+    <hash type="sha-256">68fde1eca1280b202d88ad8d926746f5c7fde4fe04330efad985732d1094d2e2</hash>
+    <hash type="sha-512">72256d6d147770a876e884d1ab57871897da7a9e5b7285269208c9b641ccf52eb1ab9563af44ced796e0ef40ac1291b473ba17aecb1db7bcd8cc035459e72e58</hash>
+    <size>389299775</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-0.0.3-warden-boshlite-ubuntu-trusty-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
