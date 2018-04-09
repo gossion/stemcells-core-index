@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.4-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
+    <hash type="md5">b9090f2ad1fa87b4fedca2c41f0532f3</hash>
+    <hash type="sha-1">51913b28d03eaf6dcca10b794be45553c9e1d65f</hash>
+    <hash type="sha-256">bb6063abbc2060890a5ffad020a55bd59d42380117598eb8a979a2eb700c23a6</hash>
+    <hash type="sha-512">9d43fdca9166d54e9d7240f414e8c7f24355c572b5d9bab603269177f7052d89b61290cad597073f7c7df74fb7f87b62bc4d0a5abb7dfca9fb2348bdbce98881</hash>
+    <size>391417621</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/aws/bosh-stemcell-0.0.4-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
