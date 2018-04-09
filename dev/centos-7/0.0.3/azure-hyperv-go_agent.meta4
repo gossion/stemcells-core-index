@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.3-azure-hyperv-centos-7-go_agent.tgz">
+    <hash type="md5">08e060a9bf65b4d6b760152a9b864ffd</hash>
+    <hash type="sha-1">bc5584de42de5c76fe1ec5c88a11e89c89aa2a80</hash>
+    <hash type="sha-256">bf0860e6b9ac511391760e17efdfc47b306dea865c38517dcab85467b9a684b0</hash>
+    <hash type="sha-512">85b85073a52a2b6ee8741f88aed392faf0a29bb5dd97cdffc54376f445637fd787d2b014bf14b4089d2e90eccc2d5e8d5587856e3014a0772e51d0ee2afd733f</hash>
+    <size>585224621</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/azure/bosh-stemcell-0.0.3-azure-hyperv-centos-7-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
