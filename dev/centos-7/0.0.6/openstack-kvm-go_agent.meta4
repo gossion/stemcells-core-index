@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.6-openstack-kvm-centos-7-go_agent-raw.tgz">
+    <hash type="md5">c7efd8e082f47f41fe489d1de5625b46</hash>
+    <hash type="sha-1">ab2d5d143e6321301fe7916d335a9f1b03ed17af</hash>
+    <hash type="sha-256">f8591252ee780e58ab43c64d05db4659e0a0fd642a82b37c22ff420a87853ed5</hash>
+    <hash type="sha-512">34768c1ce2ee16acac465df85bee7f0da4c031f01a8f3c1718ce6cd70d2157e50c20b5be51f03840a271d10e2ccb0fdd4a07492eab4eff5412c545ba73820e85</hash>
+    <size>583997681</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-0.0.6-openstack-kvm-centos-7-go_agent-raw.tgz</url>
+  </file>
+  <file name="bosh-stemcell-0.0.6-openstack-kvm-centos-7-go_agent.tgz">
+    <hash type="md5">e7742e9f5a1fa71c910a71b967cdafd3</hash>
+    <hash type="sha-1">142d86a85f26039b91fd922b191b4218f6c05f45</hash>
+    <hash type="sha-256">bfd2c080ac5c6e174d71070c69bc8b296989127819afb94f7d3b4d81a6ee9036</hash>
+    <hash type="sha-512">7840790356524ac081ba288e099a3347040ccc760ffce82c25376ae17cfba9cf09980467b63c6e86fbf8268e6cd8ec1c3b72e551ff5175c13a226f1ebd88133e</hash>
+    <size>626083111</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/openstack/bosh-stemcell-0.0.6-openstack-kvm-centos-7-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
