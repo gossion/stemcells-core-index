@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.6-azure-hyperv-ubuntu-xenial-go_agent.tgz">
+    <hash type="md5">5e4940ac3d83244523aa6c4eb1512b06</hash>
+    <hash type="sha-1">c39abc55d264b90580d126b9d1da8162f511fe26</hash>
+    <hash type="sha-256">c1fa7ce6fe252820ccf308af636f27307469957143ccdf9964dec9b28d1f3772</hash>
+    <hash type="sha-512">53579713b8bdcef2346c878f7fc174f2c759184f794809d68d326a5ccc6ce3ee8533df23a22f60d7b63ec80524d63cd87873ff75572fe15c0ee797be0b98f9a3</hash>
+    <size>320603004</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/azure/bosh-stemcell-0.0.6-azure-hyperv-ubuntu-xenial-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
