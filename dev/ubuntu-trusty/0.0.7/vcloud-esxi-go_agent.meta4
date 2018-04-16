@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-0.0.7-vcloud-esxi-ubuntu-trusty-go_agent.tgz">
+    <hash type="md5">1d8bea09719a1cb87bc7b2042488df53</hash>
+    <hash type="sha-1">832b0dde0da3ef487c6234eef523a7825e607cc5</hash>
+    <hash type="sha-256">92e45af4a8aef4ad4df8cca65b3feaee9150c274c726d56ee41106e8727656dc</hash>
+    <hash type="sha-512">67e7cda149f9f193f194045743a5a2ed0a73ed4319df18e35f303d7ca443b6052ea1b5520a29f4c769a1dc08642b2dcbe1e326f0da0bbf018c8cac681758ff17</hash>
+    <size>435087769</size>
+    <url>https://s3.amazonaws.com/bosh-core-stemcells/vcloud/bosh-stemcell-0.0.7-vcloud-esxi-ubuntu-trusty-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
